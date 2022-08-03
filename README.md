@@ -1,10 +1,19 @@
-# Module-1-Challenge
+# Module-1-Challenge: Adding Accessibility Features to an Existing Website
 
 I was given a website and tasked with making sure it met accessibility standards.
 
-In this project, I had to go through existing code to fix issues and clean up unnecessary bloat.
+In this project, I had to go through existing code, update it to meet accesibility standards, and clean up resulting unnecessary bloat in the CSS file.
 
-This project was created to meet the following criteria:
+The website was coded using HTML and styled with CSS. 
+
+
+## Link to deployed website
+https://jrargent.github.io/Module-1-Challenge/
+
+## Link to GitHub Repo
+https://github.com/jrargent/Module-1-Challenge.git
+
+This project was tasked to meet the following criteria:
 
 ## Acceptance Criteria
 
@@ -39,8 +48,4 @@ THEN I find a concise, descriptive title
 -Semantic HTML helps keep code easier to read
 -Using Chrome Dev Tools is incredibly handy for testing changes
 
-## Link to deployed website
-https://jrargent.github.io/Module-1-Challenge/
 
-## Link to GitHub Repo
-https://github.com/jrargent/Module-1-Challenge.git
