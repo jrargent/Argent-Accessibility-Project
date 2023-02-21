@@ -33,19 +33,19 @@ THEN I find a concise, descriptive title
 
 
 ## Items that I fixed
--Added semantic HTML to meet acceptance criteria
--Broken link in the header for "Search Engine Optimization"
--Corrected heading attribute sequence in footer. Changed h2 to h4 
--Added alt text to all image tags to meet accessibility standards
--Condensed div classes and condensed CSS elements
--Removed unnecessary classes and elements in HTML and CSS files resulting from prior step
--Added a more descriptive title
+- Added semantic HTML to meet acceptance criteria
+- Broken link in the header for "Search Engine Optimization"
+- Corrected heading attribute sequence in footer. Changed h2 to h4 
+- Added alt text to all image tags to meet accessibility standards
+- Condensed div classes and condensed CSS elements
+- Removed unnecessary classes and elements in HTML and CSS files resulting from prior step
+- Added a more descriptive title
 
 
 ## Things I learned in this challenge
--It is harder to go through someone else's code than my own
--Website accessibility is incredibly important
--Semantic HTML helps keep code easier to read
--Using Chrome Dev Tools is incredibly handy for testing changes
+- It is harder to go through someone else's code than my own
+- Website accessibility is incredibly important
+- Semantic HTML helps keep code easier to read
+- Using Chrome Dev Tools is incredibly handy for testing changes
 
 
